@@ -1,4 +1,4 @@
-# 📖 FOUNDATION BIBLE — Part 1: Core Philosophy & Vision
+# 📖 FOUNDATION BIBLE — Core Philosophy & Vision
 > **STATUS:** FROZEN (2026-07-07)
 > *This Vision Bible defines the thematic, emotional, and philosophical identity of the series. It is the unshakeable law of the narrative. All future modules (Universe, Power, Character, Mystery, and Story Arc Bibles) must remain strictly consistent with this document.*
 > 
