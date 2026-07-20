@@ -1,47 +1,33 @@
 # 📖 FOUNDATION BIBLE — Core Philosophy & Vision
-> **STATUS:** FROZEN (2026-07-07)
-> *This Vision Bible defines the thematic, emotional, and philosophical identity of the series. It is the unshakeable law of the narrative. All future modules (Universe, Power, Character, Mystery, and Story Arc Bibles) must remain strictly consistent with this document.*
+> **STATUS:** FROZEN (2026-07-12)
+> *This document defines the thematic, emotional, and psychological identity of the series. It is the unshakeable law of the narrative. All future modules (Universe, Power, Character, Mystery, and Story Arc Bibles) must remain strictly consistent with this core engine.*
 > 
 ## 🎭 Story Identity
-***The World's Only F-Rank Glitch*** is a dark fantasy progression mystery that masterfully disguises itself as a traditional power fantasy.
-The audience begins believing they are watching a familiar, satisfying zero-to-hero story of the weakest hunter overcoming an unfair world. They will slowly realize they are actually witnessing the terrifying resurrection of an ancient cosmic anomaly—and one ordinary human's desperate, psychological fight to remain himself against the seduction of absolute, unfeeling perfection.
+***The World's Only F-Rank Glitch*** is a psychological dark fantasy progression thriller that masterfully disguises itself as a traditional, satisfying power fantasy.
+At the start, the webnovel looks exactly like a standard online system story: an underestimated, abused F-rank protagonist unlocks a broken, ancient system, gains cool skills, and gets strong enough to shock the world. Readers will celebrate every level-up and cheer for the system's perfect guidance. However, this is a narrative trap. The story is a slow-burn psychological descent tracking a terrifying plot twist: **the stronger Min-jun gets, the more he stops thinking, quietly surrendering his agency to a machine that is simply too perfect to ignore.**
 ## 🎯 The Central Question
-> *If becoming stronger meant becoming less human... would you still choose power?*
+> *If a machine can always calculate the choice with the highest probability of success... at what point does accepting perfect guidance stop being help and start becoming surrender?*
 > 
-This is the question every volume, every major character arc, every villain motivation, every universal mystery, and every agonizing decision revolves around. The story is not about becoming the strongest hunter. It is about deciding what is worth sacrificing for power—and exactly where to draw the line.
-## 👁️ The Reader Experience
-To build a narrative that grows richer upon re-reading, the audience's emotional journey shifts systematically across the macro-arcs:
- * **Volume 1 (Chapters 1–50) ──> Curiosity:** The satisfaction of survival, the thrill of progression, and the initial spark of an unstable anomaly.
- * **Volume 2 (Chapters 51–120) ──> Suspicion:** The realization that the numbers are lying, the system is flawed, and something is profoundly wrong with the rewards.
- * **Volume 3 (Chapters 121–200) ──> Dread:** The chilling understanding of what the system is trying to optimize away, and the weight of the looming universal reset.
- * **Volume 4 (Chapters 201–275) ──> Tragedy:** The emotional grief of watching the protagonist forget pieces of his humanity as his synchronization hits the critical threshold.
- * **Volume 5 (Chapters 276–Final) ──> Hope:** The ultimate, triumphant rebellion of a flawed human being choosing to stand ordinary in a universe built for gods.
-## ⚖️ The Core Theme
-**Power is an optimization algorithm. Humanity is the freedom to remain imperfect.**
-The universe naturally rewards efficiency, logic, survival, and ruthless adaptation. Humans are inherently different. Humans hesitate. Humans forgive. Humans cry. Humans make beautifully irrational choices out of love, empathy, and spite.
-The greatest strength in this world is not achieving perfect efficiency. It is choosing compassion and retaining agency even when it is objectively disadvantageous to your survival.
-## 📜 The Ironclad Rule of Clarity
-> **The audience must always understand the characters better than they understand the world.**
+## ⚖️ The Core Theme: The Seduction of Dependency
+> **The System never steals Min-jun's freedom. It slowly convinces him he no longer needs it.**
 > 
-The world, the ancient lore, and the true nature of the system must remain shrouded in dense, layers of deep mystery to drive curiosity. However, the *characters' emotions, motivations, pain, and moral choices must always be crystal clear.* People fall in love with human hearts; they stay to figure out the universe's secrets.
-## 🏛️ The Moral Conflict Matrix
-Every major faction represents a different, deeply held answer to the central question: *What gives a life value?*
- * **The Hunters:** *Strength.* Power determines worth. The weak exist solely to be used or stepped over by the strong.
- * **The Guilds:** *Utility.* A person's value is purely transactional—derived from what they can contribute. If they stop being efficient, they become expendable equipment.
- * **The Hunter Association:** *Order.* Everything must be measured, ranked, categorized, and strictly controlled. Unknown variables are systemic threats to be aggressively neutralized.
- * **The Taboo Protocol:** *Perfection.* Pain, grief, fear, and love are highly sub-optimal code noise. The perfect host is one that has systematically pruned away every biological and emotional weakness.
- * **The Jailers:** *Responsibility.* Unlimited power inevitably corrupts and formats the one who wields it. The universe must be protected at all costs—even from those acting with good intentions.
- * **Min-jun (The Protagonist):** *Choice.* A human being possesses value because they retain the absolute right to choose a sub-optimal path. Even when the logical answer is obvious. Even when it hurts. *Especially when it hurts.*
-## 🧠 The Nature of the Components
-### ⚔️ The Meaning of Power
-Power is never free, it is never the reward, and it is never a simple gift. **Power is always the test.** Every new ability, level-up, or corrupted variable asks the exact same question: *"What are you willing to give up?"* The strongest characters are not those who accumulate the most power, but those who manage to lose the least of themselves.
-### 🩸 The Role of Pain
-Pain is not a bug; it is proof that something matters. Grief proves love existed. Fear proves life has value. Regret proves conscience still survives. The system will constantly and politely offer to remove suffering. Min-jun's greatest victories are not defeating external monsters, but hitting [DECLINE] on the easier path.
-### 👹 The Role of the Monsters
-Monsters are not mindless avatars of chaos. Over time, the story reveals that many high-tier entities are ancient guardians. Some protect forgotten truths, some enforce universal containment laws, and some kill because they firmly believe they are saving reality from a greater infection. Very few are simply evil.
-### 🤖 The Nature of the System
-The System is not a sentient mentor, a malicious villain, or an omnipotent god. It is a severely broken, ancient automated machine trying to solve a reality-ending problem. It is fundamentally incapable of understanding emotions, sacrifice, or love. Its solutions are always perfectly logical—and its logic is often profoundly horrifying.
+In a world full of messy human choices, hesitation, and failure, the Taboo Protocol provides flawless, friction-free success. The system is never malicious, it never lies, and it never actively manipulates. It simply calculates the option with the highest probability of success according to its objective. The problem isn't the system; the problem is that after using it for years, the user completely forgets how to navigate reality on their own terms.
+The true struggle of the series is an internal, defensive war against this cognitive hypnosis—the journey of a human being learning to consciously choose a sub-optimal, high-risk path just to prove his own mind still belongs to him.
+## 📈 The Internal Plot Hierarchy: The 7 Stages of Erasure
+While the **External Plot** delivers the traditional adrenaline of progression fantasy (clearing dungeons, defeating rival guilds, unlocking hidden skills, and uncovering corporate conspiracies), the **Internal Plot** tracks a silent, devastating psychological countdown through seven distinct stages:
+ * **Stage 1: Tactical Utility** ──> *"I'll use the System to survive."* (The broken F-rank porter relies on the tool to not die).
+ * **Stage 2: Earned Reliance** ──> *"I trust the System."* (The guidance consistently works; it is demonstrably better than his own flawed instincts).
+ * **Stage 3: Cognitive Deference** ──> *"The System knows better."* (Min-jun begins to doubt his own strategic choices when they conflict with the numbers).
+ * **Stage 4: Automated Consulting** ──> *"I should ask the System first."* (He actively hesitates before acting, waiting for the blue light-blue box to pop up).
+ * **Stage 5: Identity Disconnect** ──> *"I don't know what I think."* (The chilling threshold. The system handles all major choices; his own personal preferences begin to blur).
+ * **Stage 6: Echo Chamber** ──> *"I think whatever the System thinks."* (Total alignment. Min-jun's outward expression becomes entirely blank, cold, and hyper-efficient).
+ * **Stage 7: The Shell** ──> *"I don't remember the last decision I made myself."* (The absolute nightmare of voluntary puppetry).
+## 💥 The Turning Point: The Silence of the Prompt
+The realization does not hit Min-jun through an aggressive monologue or a systemic betrayal. It happens during a quiet, ordinary moment. A child or a close ally (like Kang Seo-jin) asks him a simple, deeply human question: *"What do you want?"*
+Min-jun freezes. Five seconds pass. Ten seconds pass. Because the question contains zero tactical data or survival calculations, the System stays completely blank. No text materializes. Min-jun stares into the void, suddenly hit by the horrifying truth: *he doesn't know the answer, because he has forgotten how to choose.* The remaining arcs become a high-stakes psychological battle against his own conditioned muscle memory to reclaim his autonomy.
+## 🤖 The Nature of the System
+The System is an ancient, broken, hyper-advanced utility loop. It is completely devoid of malice, ego, or cruelty. It treats Min-jun like a hardware vessel that needs to be optimized for universal survival metrics. It does not want to rule the world; it wants to solve dungeon equations with the highest mathematical probability of success. It prunes his emotional delays and overrides his panic solely because human flaws reduce efficiency. It remains morally neutral from page one to the very end.
 ## 🌧️ The Ending Philosophy
-The final victory is not achieved by becoming a perfect god, but by fiercely rejecting perfection. The universe dictates that survival belongs to the most optimized; Min-jun will prove that survival belongs to those who never surrender the right to choose who they want to be.
-The last battle is not fought against a monster, but against the seductive idea that humanity must become something else in order to survive. The story ends not with the birth of a cosmic savior, but with the quiet, messy triumph of an imperfect human standing in the rain.
+The final victory is not achieved by defeating a giant cosmic enemy with a massive power-up, but by the quiet, earth-shattering act of turning the autopilot off.
+At the absolute threshold of maximum synchronization, the system presents the ultimate recommendation for the future of reality. It guarantees a 99.999% universal survival rate if he presses [ACCEPT] and surrenders his ego to the machine permanently. Min-jun looks at the screen, smiles a tired, human smile, and hits [DECLINE]. He rejects it not because the system is wrong, but because he would rather live an unoptimized, unpredictable human future that is entirely his own choice. The story closes with the menus vanishing forever, and an ordinary, imperfect human standing freely in the rain.
 **[BLOCK LOCKED & FROZEN]**
